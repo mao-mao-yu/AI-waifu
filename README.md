@@ -1,5 +1,6 @@
 # AI-waifu
-一个接入了GPTAPI的AI waifu计划
+一个接入了GPTAPI的AI waifu计划  
+目前已有类似项目，See https://github.com/Syan-Lin/CyberWaifu
 
 
 ## 目前的计划
